@@ -1,6 +1,0 @@
-team : Tigers
-
-manager : JeongSoep
-
-members :
-- JinHo
